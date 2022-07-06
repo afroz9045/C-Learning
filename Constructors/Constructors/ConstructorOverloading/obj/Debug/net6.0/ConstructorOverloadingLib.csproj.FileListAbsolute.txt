@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\bin\Debug\net6.0\ConstructorOverloadingLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\bin\Debug\net6.0\ConstructorOverloadingLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\bin\Debug\net6.0\ConstructorOverloadingLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\refint\ConstructorOverloadingLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ConstructorOverloadingLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\ConstructorOverloading\obj\Debug\net6.0\ref\ConstructorOverloadingLib.dll

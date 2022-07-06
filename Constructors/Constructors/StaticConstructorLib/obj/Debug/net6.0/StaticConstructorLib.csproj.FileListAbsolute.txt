@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\bin\Debug\net6.0\StaticConstructorLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\bin\Debug\net6.0\StaticConstructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\bin\Debug\net6.0\StaticConstructorLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\refint\StaticConstructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\StaticConstructorLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Constructors\Constructors\StaticConstructorLib\obj\Debug\net6.0\ref\StaticConstructorLib.dll

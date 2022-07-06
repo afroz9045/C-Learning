@@ -1,0 +1,15 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\bin\Debug\net6.0\PublicAccessLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\bin\Debug\net6.0\PublicAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\bin\Debug\net6.0\PublicAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\refint\PublicAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\ref\PublicAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\bin\Debug\net6.0\ProtectedAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\bin\Debug\net6.0\ProtectedAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PublicAccess\obj\Debug\net6.0\PublicAccessLib.csproj.CopyComplete

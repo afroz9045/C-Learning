@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\bin\Debug\net6.0\VarAndDynamicsLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\bin\Debug\net6.0\VarAndDynamicsLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\bin\Debug\net6.0\VarAndDynamicsLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\refint\VarAndDynamicsLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\VarAndDynamicsLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Var and dynamic\VarAndDynamics\VarAndDynamicsLib\obj\Debug\net6.0\ref\VarAndDynamicsLib.dll

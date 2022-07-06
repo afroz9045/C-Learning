@@ -1,0 +1,15 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StaticClassExample.exe
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StaticClassExample.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StaticClassExample.runtimeconfig.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StaticClassExample.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StaticClassExample.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\StaticClassExample.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StaticClassExample.genruntimeconfig.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticClass\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\StaticClassExample.dll

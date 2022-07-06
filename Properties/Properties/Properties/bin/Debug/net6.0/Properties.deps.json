@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Properties/1.0.0": {
+        "dependencies": {
+          "AutoImplementPropertyLib": "1.0.0",
+          "PropertiesLib": "1.0.0",
+          "StaticPropertyLib": "1.0.0"
+        },
+        "runtime": {
+          "Properties.dll": {}
+        }
+      },
+      "AutoImplementPropertyLib/1.0.0": {
+        "runtime": {
+          "AutoImplementPropertyLib.dll": {}
+        }
+      },
+      "PropertiesLib/1.0.0": {
+        "runtime": {
+          "PropertiesLib.dll": {}
+        }
+      },
+      "StaticPropertyLib/1.0.0": {
+        "runtime": {
+          "StaticPropertyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Properties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoImplementPropertyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PropertiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaticPropertyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

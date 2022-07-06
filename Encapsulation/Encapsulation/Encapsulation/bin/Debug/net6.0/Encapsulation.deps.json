@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Encapsulation/1.0.0": {
+        "dependencies": {
+          "HidingData": "1.0.0"
+        },
+        "runtime": {
+          "Encapsulation.dll": {}
+        }
+      },
+      "HidingData/1.0.0": {
+        "runtime": {
+          "HidingData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HidingData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\refint\TypesOfInheritance.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\TypesOfInheritance\obj\Debug\net6.0\ref\TypesOfInheritance.dll

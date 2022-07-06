@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Constructors/1.0.0": {
+        "dependencies": {
+          "ConstructorLib": "1.0.0",
+          "ConstructorOverloadingLib": "1.0.0",
+          "StaticConstructorLib": "1.0.0"
+        },
+        "runtime": {
+          "Constructors.dll": {}
+        }
+      },
+      "ConstructorLib/1.0.0": {
+        "runtime": {
+          "ConstructorLib.dll": {}
+        }
+      },
+      "ConstructorOverloadingLib/1.0.0": {
+        "runtime": {
+          "ConstructorOverloadingLib.dll": {}
+        }
+      },
+      "StaticConstructorLib/1.0.0": {
+        "runtime": {
+          "StaticConstructorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConstructorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConstructorOverloadingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaticConstructorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Inheritance/1.0.0": {
+        "dependencies": {
+          "ConstructorInheritanceLib": "1.0.0",
+          "InheritanceLib": "1.0.0",
+          "TypesOfInheritance": "1.0.0"
+        },
+        "runtime": {
+          "Inheritance.dll": {}
+        }
+      },
+      "ConstructorInheritanceLib/1.0.0": {
+        "runtime": {
+          "ConstructorInheritanceLib.dll": {}
+        }
+      },
+      "InheritanceLib/1.0.0": {
+        "runtime": {
+          "InheritanceLib.dll": {}
+        }
+      },
+      "TypesOfInheritance/1.0.0": {
+        "runtime": {
+          "TypesOfInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConstructorInheritanceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InheritanceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypesOfInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\bin\Debug\net6.0\ValueTypeAndReferenceTypeExample.deps.json
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\bin\Debug\net6.0\ValueTypeAndReferenceTypeExample.dll
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\bin\Debug\net6.0\ValueTypeAndReferenceTypeExample.pdb
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.csproj.AssemblyReference.cache
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.AssemblyInfoInputs.cache
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.AssemblyInfo.cs
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.csproj.CoreCompileInputs.cache
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.dll
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\refint\ValueTypeAndReferenceTypeExample.dll
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ValueTypeAndReferenceTypeExample.pdb
+E:\Backend Tasks\DotNet-Practice\ValueTypeAndReferenceType\ValueTypeAndReferenceTypeExample\obj\Debug\net6.0\ref\ValueTypeAndReferenceTypeExample.dll

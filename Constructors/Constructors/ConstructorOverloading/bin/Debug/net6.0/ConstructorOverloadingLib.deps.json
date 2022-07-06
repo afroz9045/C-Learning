@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConstructorOverloadingLib/1.0.0": {
+        "runtime": {
+          "ConstructorOverloadingLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructorOverloadingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

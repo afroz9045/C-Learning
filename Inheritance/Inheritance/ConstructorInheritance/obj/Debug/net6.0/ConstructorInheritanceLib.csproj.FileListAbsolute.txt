@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritanceLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritanceLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritanceLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\refint\ConstructorInheritanceLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritanceLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Inheritance\Inheritance\ConstructorInheritance\obj\Debug\net6.0\ref\ConstructorInheritanceLib.dll

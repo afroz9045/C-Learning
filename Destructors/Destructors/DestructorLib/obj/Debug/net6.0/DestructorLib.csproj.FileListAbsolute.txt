@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\bin\Debug\net6.0\DestructorLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\bin\Debug\net6.0\DestructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\bin\Debug\net6.0\DestructorLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\refint\DestructorLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\DestructorLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Destructors\Destructors\DestructorLib\obj\Debug\net6.0\ref\DestructorLib.dll

@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PassByOutLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PassByOutLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PassByOutLib.dll": {}
+        }
+      },
+      "PassByReference/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PassByReference.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PassByReference.dll": {}
+        }
+      },
+      "PassByValueLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PassByValueLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PassByValueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassByOutLib/1.0.0": {
+      "type": "project",
+      "path": "../PassByOutLib/PassByOutLib.csproj",
+      "msbuildProject": "../PassByOutLib/PassByOutLib.csproj"
+    },
+    "PassByReference/1.0.0": {
+      "type": "project",
+      "path": "../../PassByReference/PassByReference.csproj",
+      "msbuildProject": "../../PassByReference/PassByReference.csproj"
+    },
+    "PassByValueLib/1.0.0": {
+      "type": "project",
+      "path": "../PassByValue/PassByValueLib.csproj",
+      "msbuildProject": "../PassByValue/PassByValueLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PassByOutLib >= 1.0.0",
+      "PassByReference >= 1.0.0",
+      "PassByValueLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\QualMinds\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByValueExample\\PassByValueExample.csproj",
+      "projectName": "PassByValueExample",
+      "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByValueExample\\PassByValueExample.csproj",
+      "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByValueExample\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByReference\\PassByReference.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByReference\\PassByReference.csproj"
+            },
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByOutLib\\PassByOutLib.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByOutLib\\PassByOutLib.csproj"
+            },
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByValue\\PassByValueLib.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\PassByValuesPassByReference\\PassByValueExample\\PassByValue\\PassByValueLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

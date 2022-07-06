@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PassByValueExample/1.0.0": {
+        "dependencies": {
+          "PassByOutLib": "1.0.0",
+          "PassByReference": "1.0.0",
+          "PassByValueLib": "1.0.0"
+        },
+        "runtime": {
+          "PassByValueExample.dll": {}
+        }
+      },
+      "PassByOutLib/1.0.0": {
+        "runtime": {
+          "PassByOutLib.dll": {}
+        }
+      },
+      "PassByReference/1.0.0": {
+        "runtime": {
+          "PassByReference.dll": {}
+        }
+      },
+      "PassByValueLib/1.0.0": {
+        "runtime": {
+          "PassByValueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassByValueExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassByOutLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassByReference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassByValueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

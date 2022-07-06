@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConstructorInheritanceLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConstructorInheritanceLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConstructorInheritanceLib.dll": {}
+        }
+      },
+      "InheritanceLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InheritanceLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InheritanceLib.dll": {}
+        }
+      },
+      "TypesOfInheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TypesOfInheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TypesOfInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructorInheritanceLib/1.0.0": {
+      "type": "project",
+      "path": "../ConstructorInheritance/ConstructorInheritanceLib.csproj",
+      "msbuildProject": "../ConstructorInheritance/ConstructorInheritanceLib.csproj"
+    },
+    "InheritanceLib/1.0.0": {
+      "type": "project",
+      "path": "../InheritanceLib/InheritanceLib.csproj",
+      "msbuildProject": "../InheritanceLib/InheritanceLib.csproj"
+    },
+    "TypesOfInheritance/1.0.0": {
+      "type": "project",
+      "path": "../TypesOfInheritance/TypesOfInheritance.csproj",
+      "msbuildProject": "../TypesOfInheritance/TypesOfInheritance.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConstructorInheritanceLib >= 1.0.0",
+      "InheritanceLib >= 1.0.0",
+      "TypesOfInheritance >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\QualMinds\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectName": "Inheritance",
+      "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\Inheritance\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\ConstructorInheritance\\ConstructorInheritanceLib.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\ConstructorInheritance\\ConstructorInheritanceLib.csproj"
+            },
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\InheritanceLib\\InheritanceLib.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\InheritanceLib\\InheritanceLib.csproj"
+            },
+            "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\TypesOfInheritance\\TypesOfInheritance.csproj": {
+              "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Inheritance\\Inheritance\\TypesOfInheritance\\TypesOfInheritance.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

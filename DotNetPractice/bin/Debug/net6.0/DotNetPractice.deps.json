@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetPractice/1.0.0": {
+        "dependencies": {
+          "ClassLib2": "1.0.0",
+          "library1": "1.0.0"
+        },
+        "runtime": {
+          "DotNetPractice.dll": {}
+        }
+      },
+      "ClassLib2/1.0.0": {
+        "runtime": {
+          "ClassLib2.dll": {}
+        }
+      },
+      "library1/1.0.0": {
+        "runtime": {
+          "library1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLib2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "library1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

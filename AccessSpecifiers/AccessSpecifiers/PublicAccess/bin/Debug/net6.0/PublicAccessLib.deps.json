@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PublicAccessLib/1.0.0": {
+        "dependencies": {
+          "ProtectedAccessLib": "1.0.0"
+        },
+        "runtime": {
+          "PublicAccessLib.dll": {}
+        }
+      },
+      "ProtectedAccessLib/1.0.0": {
+        "runtime": {
+          "ProtectedAccessLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PublicAccessLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProtectedAccessLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

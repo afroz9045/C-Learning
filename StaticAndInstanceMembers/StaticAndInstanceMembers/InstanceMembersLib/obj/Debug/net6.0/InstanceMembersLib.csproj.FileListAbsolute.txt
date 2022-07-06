@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\bin\Debug\net6.0\InstanceMembersLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\bin\Debug\net6.0\InstanceMembersLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\bin\Debug\net6.0\InstanceMembersLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\refint\InstanceMembersLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\InstanceMembersLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\StaticAndInstanceMembers\StaticAndInstanceMembers\InstanceMembersLib\obj\Debug\net6.0\ref\InstanceMembersLib.dll

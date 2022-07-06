@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VarAndDynamics/1.0.0": {
+        "dependencies": {
+          "VarAndDynamicsLib": "1.0.0"
+        },
+        "runtime": {
+          "VarAndDynamics.dll": {}
+        }
+      },
+      "VarAndDynamicsLib/1.0.0": {
+        "runtime": {
+          "VarAndDynamicsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VarAndDynamics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VarAndDynamicsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\bin\Debug\net6.0\AutoImplementPropertyLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\bin\Debug\net6.0\AutoImplementPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\bin\Debug\net6.0\AutoImplementPropertyLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\refint\AutoImplementPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\AutoImplementPropertyLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\AutoImplementPropertyLib\obj\Debug\net6.0\ref\AutoImplementPropertyLib.dll

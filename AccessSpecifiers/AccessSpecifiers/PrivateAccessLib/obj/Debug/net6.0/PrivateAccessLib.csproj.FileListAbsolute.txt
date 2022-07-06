@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\bin\Debug\net6.0\PrivateAccessLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\bin\Debug\net6.0\PrivateAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\bin\Debug\net6.0\PrivateAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\refint\PrivateAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\PrivateAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\PrivateAccessLib\obj\Debug\net6.0\ref\PrivateAccessLib.dll

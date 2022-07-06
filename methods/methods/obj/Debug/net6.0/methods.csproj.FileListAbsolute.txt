@@ -1,0 +1,15 @@
+E:\Backend Tasks\DotNet-Practice\methods\methods\bin\Debug\net6.0\methods.exe
+E:\Backend Tasks\DotNet-Practice\methods\methods\bin\Debug\net6.0\methods.deps.json
+E:\Backend Tasks\DotNet-Practice\methods\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+E:\Backend Tasks\DotNet-Practice\methods\methods\bin\Debug\net6.0\methods.dll
+E:\Backend Tasks\DotNet-Practice\methods\methods\bin\Debug\net6.0\methods.pdb
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.dll
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\refint\methods.dll
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.pdb
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+E:\Backend Tasks\DotNet-Practice\methods\methods\obj\Debug\net6.0\ref\methods.dll

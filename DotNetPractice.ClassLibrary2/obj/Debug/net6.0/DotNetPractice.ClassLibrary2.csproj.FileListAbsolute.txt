@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\bin\Debug\net6.0\DotNetPractice.ClassLibrary2.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\bin\Debug\net6.0\DotNetPractice.ClassLibrary2.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\bin\Debug\net6.0\DotNetPractice.ClassLibrary2.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\refint\DotNetPractice.ClassLibrary2.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\DotNetPractice.ClassLibrary2.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\DotNetPractice.ClassLibrary2\obj\Debug\net6.0\ref\DotNetPractice.ClassLibrary2.dll

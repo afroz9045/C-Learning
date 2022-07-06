@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\bin\Debug\net6.0\StaticPropertyLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\bin\Debug\net6.0\StaticPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\bin\Debug\net6.0\StaticPropertyLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\refint\StaticPropertyLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\StaticPropertyLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\StaticPropertyLib\obj\Debug\net6.0\ref\StaticPropertyLib.dll

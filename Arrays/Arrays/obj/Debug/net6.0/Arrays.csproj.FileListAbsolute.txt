@@ -1,0 +1,15 @@
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+E:\Backend Tasks\DotNet-Practice\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll

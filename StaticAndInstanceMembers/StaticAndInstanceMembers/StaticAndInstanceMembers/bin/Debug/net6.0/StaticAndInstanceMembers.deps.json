@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StaticAndInstanceMembers/1.0.0": {
+        "dependencies": {
+          "InstanceMembersLib": "1.0.0"
+        },
+        "runtime": {
+          "StaticAndInstanceMembers.dll": {}
+        }
+      },
+      "InstanceMembersLib/1.0.0": {
+        "runtime": {
+          "InstanceMembersLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticAndInstanceMembers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InstanceMembersLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

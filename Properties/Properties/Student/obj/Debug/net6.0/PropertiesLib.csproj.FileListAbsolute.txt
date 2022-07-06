@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\bin\Debug\net6.0\PropertiesLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\bin\Debug\net6.0\PropertiesLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\bin\Debug\net6.0\PropertiesLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\refint\PropertiesLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\PropertiesLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\Properties\Properties\Student\obj\Debug\net6.0\ref\PropertiesLib.dll

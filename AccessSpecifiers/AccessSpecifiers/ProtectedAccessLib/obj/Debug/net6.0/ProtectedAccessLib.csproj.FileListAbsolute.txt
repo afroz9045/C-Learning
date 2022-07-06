@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\bin\Debug\net6.0\ProtectedAccessLib.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\bin\Debug\net6.0\ProtectedAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\bin\Debug\net6.0\ProtectedAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\refint\ProtectedAccessLib.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ProtectedAccessLib.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\AccessSpecifiers\AccessSpecifiers\ProtectedAccessLib\obj\Debug\net6.0\ref\ProtectedAccessLib.dll

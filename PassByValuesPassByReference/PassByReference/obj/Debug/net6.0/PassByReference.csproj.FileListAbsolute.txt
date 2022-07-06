@@ -1,0 +1,12 @@
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\bin\Debug\net6.0\PassByReference.deps.json
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\bin\Debug\net6.0\PassByReference.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\bin\Debug\net6.0\PassByReference.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.csproj.AssemblyReference.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.AssemblyInfoInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.AssemblyInfo.cs
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\refint\PassByReference.dll
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\PassByReference.pdb
+C:\Users\QualMinds\Desktop\dot net practice\DotNetPractice\PassByValuesPassByReference\PassByReference\obj\Debug\net6.0\ref\PassByReference.dll
