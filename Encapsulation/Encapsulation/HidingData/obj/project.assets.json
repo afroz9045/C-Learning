@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
+      "projectUniqueName": "E:\\dot net practice\\CSharp-Learning\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
       "projectName": "HidingData",
-      "projectPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
+      "projectPath": "E:\\dot net practice\\CSharp-Learning\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
       "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Encapsulation\\Encapsulation\\HidingData\\obj\\",
+      "outputPath": "E:\\dot net practice\\CSharp-Learning\\Encapsulation\\Encapsulation\\HidingData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",

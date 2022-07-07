@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHidingWithInheritance", "MethodHidingWithInheritance\MethodHidingWithInheritance.csproj", "{9AEDF091-E70B-47A5-979E-497A586CB80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{073D241D-B67D-4D0B-BC25-03C211E9CB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEDF091-E70B-47A5-979E-497A586CB80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEDF091-E70B-47A5-979E-497A586CB80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEDF091-E70B-47A5-979E-497A586CB80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEDF091-E70B-47A5-979E-497A586CB80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073D241D-B67D-4D0B-BC25-03C211E9CB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073D241D-B67D-4D0B-BC25-03C211E9CB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073D241D-B67D-4D0B-BC25-03C211E9CB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073D241D-B67D-4D0B-BC25-03C211E9CB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A5F789-A487-483E-BFAF-07A7FCD6FDB3}
+	EndGlobalSection
+EndGlobal

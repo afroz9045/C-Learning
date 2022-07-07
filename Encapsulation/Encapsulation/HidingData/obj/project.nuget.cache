@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsRytfYrUC8TY0GEK4JXaaIaMZq7lyvSLSeZDQwYIBLLrHL1larDUXlX85ZLDn4bo/RrFs+C604N/p/nWpIrcQ==",
+  "dgSpecHash": "N2P+zynS8cWuAXecxLNBsJQt/QgNErd420zh5DGTfVGfqgHjkMq7Hj4AYvtsX1yPteil6VVyETerzr2ThYsq2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QualMinds\\Desktop\\dot net practice\\DotNetPractice\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
+  "projectFilePath": "E:\\dot net practice\\CSharp-Learning\\Encapsulation\\Encapsulation\\HidingData\\HidingData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
