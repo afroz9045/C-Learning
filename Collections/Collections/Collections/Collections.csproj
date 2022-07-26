@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArrarListLib\ArrarListLib.csproj" />
+    <ProjectReference Include="..\DictionaryLib\DictionaryLib.csproj" />
+    <ProjectReference Include="..\GenericListLib\GenericListLib.csproj" />
+    <ProjectReference Include="..\HashTableLib\HashTableLib.csproj" />
+    <ProjectReference Include="..\QueueLib\QueueLib.csproj" />
+    <ProjectReference Include="..\StackLib\StackLib.csproj" />
+  </ItemGroup>
+
+</Project>
